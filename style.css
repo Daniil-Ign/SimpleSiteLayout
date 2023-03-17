@@ -77,6 +77,7 @@ body {
   color: #ffffff;
   text-decoration: none;
   line-height: 82px;
+  cursor: pointer;
 }
 
 .price {
